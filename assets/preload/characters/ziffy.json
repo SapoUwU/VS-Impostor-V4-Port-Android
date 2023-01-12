@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				1,
-				0
-			],
-			"loop": false,
-			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "SENPAI UP NOTE"
-		},
-		{
-			"offsets": [
 				0,
-				0
+				-40
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
+			"fps": 28,
+			"anim": "idle",
 			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
+			"name": "ziffy idle"
 		},
 		{
 			"offsets": [
-				40,
-				0
+				55,
+				-86
 			],
 			"loop": false,
-			"fps": 24,
+			"fps": 28,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SENPAI LEFT NOTE"
+			"name": "ziffy left"
 		},
 		{
 			"offsets": [
-				14,
-				0
+				3,
+				-63
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ziffy right"
+		},
+		{
+			"offsets": [
+				62,
+				-88
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "ziffy down"
+		},
+		{
+			"offsets": [
+				39,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ziffy up"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "characters/ziffyfnf",
 	"position": [
-		150,
-		360
+		0,
+		80
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "ziffy",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		170,
-		111
+		153,
+		51
 	],
 	"camera_position": [
-		-240,
-		-330
+		0,
+		110
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 1
 }

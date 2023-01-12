@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
-			"loop": false,
+			"loop": true,
 			"offsets": [
-				0,
-				0
+				322,
+				140
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Mom Idle",
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				250,
-				-23
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Mom Left Pose",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				10,
-				-60
+				67,
+				-1
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Mom Pose Left",
+			"name": "right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				20,
-				-160
+				187,
+				-110
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "MOM DOWN POSE",
+			"name": "down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				14,
-				71
+				412,
+				29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				191
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Mom Up Pose",
+			"name": "up",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Mom_Assets",
+	"image": "characters/parasite",
 	"position": [
-		0,
-		0
+		70,
+		100
 	],
-	"healthicon": "mom",
+	"healthicon": "parasite",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		0,
+		51,
+		21
 	],
 	"camera_position": [
-		0,
-		0
+		-200,
+		-160
 	],
-	"sing_duration": 4,
-	"scale": 1
+	"sing_duration": 6.1,
+	"scale": 2
 }
